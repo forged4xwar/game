@@ -1,0 +1,58 @@
+{
+  "interval": 100,
+  "anchor": "29:46",
+  "size": "42:51",
+  "refScale": 90,
+  "frames": [
+    {
+      "uri": "00.png",
+      "anchor": "22:38"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "22:39"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "24:40"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "28:42"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "28:46"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "27:45"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "29:43"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "28:40"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "26:39"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "24:38"
+    },
+    {
+      "uri": "10.png",
+      "anchor": "22:38"
+    }
+  ],
+  "data": {
+    "projectile": {
+      "launchDelay": 500,
+      "launchOffset": "0:10"
+    }
+  }
+}
