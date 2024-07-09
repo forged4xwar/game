@@ -1,0 +1,59 @@
+{
+  "interval": 100,
+  "anchor": "39:40",
+  "size": "52:49",
+  "flip": true,
+  "refScale": 90,
+  "frames": [
+    {
+      "uri": "../w/00.png",
+      "anchor": "23:40"
+    },
+    {
+      "uri": "../w/01.png",
+      "anchor": "31:39"
+    },
+    {
+      "uri": "../w/02.png",
+      "anchor": "38:39"
+    },
+    {
+      "uri": "../w/03.png",
+      "anchor": "40:39"
+    },
+    {
+      "uri": "../w/04.png",
+      "anchor": "39:39"
+    },
+    {
+      "uri": "../w/05.png",
+      "anchor": "37:39"
+    },
+    {
+      "uri": "../w/06.png",
+      "anchor": "34:39"
+    },
+    {
+      "uri": "../w/07.png",
+      "anchor": "33:39"
+    },
+    {
+      "uri": "../w/08.png",
+      "anchor": "32:39"
+    },
+    {
+      "uri": "../w/09.png",
+      "anchor": "29:39"
+    },
+    {
+      "uri": "../w/10.png",
+      "anchor": "23:40"
+    }
+  ],
+  "data": {
+    "projectile": {
+      "launchDelay": 500,
+      "launchOffset": "52:10"
+    }
+  }
+}
