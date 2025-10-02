@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a88b7ad986f90d7c5e7f70845696a4c5",
+const RESOURCES = {"flutter_bootstrap.js": "1f0b44defd1e35200016d21f580b77f1",
 "version.json": "471e95aae78f26cdebd5b5289a8fecee",
 "index.html": "ee2f269bff7c0d3f5a87677693d3a606",
 "/": "ee2f269bff7c0d3f5a87677693d3a606",
-"main.dart.js": "72cf14d1a4918180aeff6cd1d709e8e4",
+"main.dart.js": "7b6d64ee1981b1238330eace223c94a4",
 "flutter.js": "35408b1be0f5de68cc5d1c5175d717ed",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -34,7 +34,7 @@ const RESOURCES = {"flutter_bootstrap.js": "a88b7ad986f90d7c5e7f70845696a4c5",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
 "assets/shader/turn_progress.frag": "7ed1cbed20b30d745dc70b95ec590ce9",
-"assets/shader/season_progress.frag": "df9e14a30e5d160c8051c8607aacfba9",
+"assets/shader/season_progress.frag": "7363e0ae70e2822ebd88048675adcce1",
 "assets/AssetManifest.bin": "b98104f79f6c1d5b65273f34bdcb2bb8",
 "assets/fonts/MaterialIcons-Regular.otf": "fa60b89b494f373ccd2a44b9dc3a33ec",
 "canvaskit/skwasm.js": "95f1685cbe3a3e1d94cac24eb0148a02",
